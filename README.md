@@ -81,3 +81,6 @@ D:\NextJS\shoes-store>
 
 
 npx prisma studio
+
+
+time 33:30
